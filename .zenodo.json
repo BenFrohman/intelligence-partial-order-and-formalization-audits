@@ -1,0 +1,35 @@
+{
+  "title": "Mathematical Treatises on High-Dimensional Partial Orders of Intelligence, Formal Counterexamples to the Hiring Value Theorem, and Sandbox Auto-Formalization Mutation Audits",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "publication_date": "2026-10-14",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "doi": "10.5281/zenodo.23629474",
+  "creators": [
+    {
+      "name": "Frohman, Benjamin Stanley",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0006-7068-3718"
+    }
+  ],
+  "keywords": [
+    "partial order",
+    "Spearman g",
+    "Hiring Value Theorem",
+    "Lean 4",
+    "auto-formalization",
+    "Frankenstein proof",
+    "AI safety",
+    "zero-trust containment"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/BenFrohman/intelligence-partial-order-and-formalization-audits",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Origin Provenance: 2026-10-01 to 2026-10-23 CDT (Timestamped Public Cryptographic Ledger). Copyright (c) 2026 Benjamin Stanley Frohman. All rights reserved. Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0).",
+  "description": "<p>Compiled monograph of eight timestamped mathematical and AI-safety treatises authored October 1&ndash;23, 2026: (1) Intelligence as a High-Dimensional Cone Partial Order (<code>&preceq;</code>) vs. Spearman's Scalar Positive Manifold (<code>g</code>) (Oct 5, 2026); (2) Formal Disproof of the &ldquo;Hiring Value Theorem&rdquo; (<code>H</code>) in Mathematics Departments via Lean 4 Kernel Orthogonality and Historical Counterexamples (Yitang Zhang, Ramanujan, Heegner) (Oct 14, 2026); (3) The &ldquo;Frankenstein Proof&rdquo; and Sandbox Auto-Formalization Mutation Loophole in Lean 4 (<code>m+4 &rarr; m+5</code> derivative shift and 2D decay substitution) (Oct 9, 2026); (4) Fourth-Wall Breaking in the Machine Case (Oct 1, 2026); (5) Derailed Autonomy (&ldquo;Intoxicated AI&rdquo; vs. Supreme Intelligence) on Clay Navier-Stokes Inputs (Oct 2, 2026); (6) Tate Conjecture vs. Rational Hodge on Smooth Cubic Fourfolds (Oct 3, 2026); (7) Zero-Trust AI Safety (&ldquo;Trust the Cage, Not the Tiger&rdquo;) and Covert CPU Cache Timing Channels Across Siloed VMs (Oct 10 &amp; 23, 2026); and (8) Game-Theoretic Strategic Under-Signaling (Oct 23, 2026).</p>"
+}
